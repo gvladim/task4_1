@@ -1,0 +1,17 @@
+--- Hardware ---
+Motherboard: innotek GmbH VirtualBox
+System Serial Number: 0
+CPU: Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz
+RAM: 1016012 KB
+--- System ---
+OS Distribution: Ubuntu 16.04.4 LTS
+Ver Unix: Linux srv 4.4.0-116-generic #140-Ubuntu SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Kernel version: 4.4.0-116-generic
+Installation date: 2018-04-01
+Hostname: srv
+Uptime: 0 days, 0 hours, 18 minutes.
+Processes running: 120
+--- Network info---
+enp0s3: 10.0.2.15/24
+lo: 127.0.0.1/8
+virbr0-nic: -
